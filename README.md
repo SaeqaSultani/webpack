@@ -25,7 +25,7 @@ LinkedIn: [SaeqaSultani](https://www.linkedin.com/in/saeqa-sultani-b41493187/)
 # 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/SaeqaSultani/Awesome-books-with-ES6/issues).
+Feel free to check the [issues page](https://github.com/SaeqaSultani/webpack/issues).
 
 # Show your support
 Give a ⭐️ if you like this project!
