@@ -35,4 +35,4 @@ Give a ⭐️ if you like this project!
 - Inspiration
 - etc
 # 📝 License
-This project is [MIT](https://github.com/SaeqaSultani/Awesome-books-with-ES6/blob/Awesome-books-with-ES6/MIT.md) licensed.
+This project is [MIT](https://github.com/SaeqaSultani/webpack/blob/main/MIT.md) licensed.
