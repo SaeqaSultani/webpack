@@ -10,7 +10,7 @@ this is a webpack project that the purpose of this project is to understand how 
 # Live Demo :)
 
 
-[Live Demo Link](https://saeqasultani.github.io/Awesome-books-with-ES6/#bookForm/)
+[Live Demo Link](https://saeqasultani.github.io/webpack/)
 
 # Authors
 
